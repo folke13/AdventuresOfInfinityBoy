@@ -204,6 +204,7 @@ public class GamePanel extends JPanel implements ActionListener{
 		// Adding obstacles
 		for(int i = 0; i < obstacle.length; i++) {
 			this.add(obstacle[i], 0);
+			obstacle[i].setBackground(new Color(0, 0, 0, 0));
 		}
 		
 		// Adding Ground

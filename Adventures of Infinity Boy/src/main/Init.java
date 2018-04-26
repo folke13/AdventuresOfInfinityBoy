@@ -44,7 +44,7 @@ public class Init {
 	public final static int[] BUTTON_SIZE_2 = {250, 75};
 	public final static int[] BUTTON_SET_SIZE = {360, 135};
 	final static int PLATFORM_AMOUNT = 3;
-	static int characterMovement = 6;
+	static int characterMovement = 7;
 	static float scaleIndexX = 1;
 	static float scaleIndexY = 1;
 	static int a = 35;
